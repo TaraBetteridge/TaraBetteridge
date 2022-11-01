@@ -1,9 +1,21 @@
-### Hi there 👋
+<h1>Hi, I'm Tara!
 
-<!--
-**TaraBetteridge/TaraBetteridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
-Here are some ideas to get you started:
+-  <a href="default.asp">HTML tutorial</a> 
+
+
+<h2>Certifications</h2>
+
+
+<a href="http://verify.CompTIA.org">Comptia Security+</a>
+
+Code: BE63DH45DNEQ1KWS
+
+<h2>Reach Me</h2>
+ <a href="https://www.linkedin.com/in/tara-betteridge/">Linkedin</a> 
+
+<h2> </h2>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,6 +23,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
